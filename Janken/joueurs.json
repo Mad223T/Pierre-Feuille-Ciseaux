@@ -1,0 +1,167 @@
+[
+    {
+        "nom": "King Damesys",
+        "type": "humain",
+        "elo": 1000,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "Valdo",
+                "resultat": "victoire"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "Valdo",
+                "resultat": "defaite"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "Valdo",
+                "resultat": "defaite"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "Valdo",
+                "resultat": "victoire"
+            }
+        ]
+    },
+    {
+        "nom": "Valdo",
+        "type": "humain",
+        "elo": 1050,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "King Damesys",
+                "resultat": "defaite"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "King Damesys",
+                "resultat": "victoire"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "King Damesys",
+                "resultat": "victoire"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "Darwin",
+                "resultat": "nul"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "King Damesys",
+                "resultat": "defaite"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "Bot",
+                "resultat": "victoire"
+            }
+        ]
+    },
+    {
+        "nom": "Darwin",
+        "type": "humain",
+        "elo": 1000,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "Valdo",
+                "resultat": "nul"
+            }
+        ]
+    },
+    {
+        "nom": "Bot",
+        "type": "ia",
+        "elo": 900,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "Valdo",
+                "resultat": "defaite"
+            },
+            {
+                "jeu": "morpion",
+                "adversaire": "Samir",
+                "resultat": "defaite"
+            }
+        ]
+    },
+    {
+        "nom": "&",
+        "type": "humain",
+        "elo": 1000,
+        "historique": [
+            {
+                "jeu": "ppc",
+                "adversaire": "FZGJ",
+                "resultat": "nul"
+            }
+        ]
+    },
+    {
+        "nom": "FZGJ",
+        "type": "ia",
+        "elo": 1000,
+        "historique": [
+            {
+                "jeu": "ppc",
+                "adversaire": "&",
+                "resultat": "nul"
+            }
+        ]
+    },
+    {
+        "nom": "FGB",
+        "type": "humain",
+        "elo": 1050,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "FE",
+                "resultat": "victoire"
+            }
+        ]
+    },
+    {
+        "nom": "FE",
+        "type": "ia",
+        "elo": 950,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "FGB",
+                "resultat": "defaite"
+            }
+        ]
+    },
+    {
+        "nom": "FF",
+        "type": "ia",
+        "elo": 1000,
+        "historique": []
+    },
+    {
+        "nom": "GB",
+        "type": "ia",
+        "elo": 1000,
+        "historique": []
+    },
+    {
+        "nom": "Samir",
+        "type": "humain",
+        "elo": 1050,
+        "historique": [
+            {
+                "jeu": "morpion",
+                "adversaire": "Bot",
+                "resultat": "victoire"
+            }
+        ]
+    }
+]
